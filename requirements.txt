@@ -1,0 +1,7 @@
+moviepy==2.1.2
+numpy>=1.25.0
+decorator>=4.0.2
+imageio>=2.5
+imageio-ffmpeg>=0.2.0
+proglog<=1.0.0
+tqdm 
